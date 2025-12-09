@@ -20,7 +20,7 @@ Neste projeto, pretendo fazer uma análise exploratória do dataset do COMPAS, v
 ## Fontes de Dados
 * Dataset público: [COMPAS Two-Year Recidivism Dataset - ProPublica](https://github.com/propublica/compas-analysis)
 * Dados estruturados em formato CSV.
-* Coletados diretamente via download manual para o ambiente do Colab.(https://docs.google.com/spreadsheets/d/1Gy_9EjZbGgJE11NwRV_3FrJtn-XCboP_poJQOgTRG9k/edit?gid=2058290409#gid=2058290409)
+* Coletados diretamente via download manual para o ambiente do Colab: https://docs.google.com/spreadsheets/d/1Gy_9EjZbGgJE11NwRV_3FrJtn-XCboP_poJQOgTRG9k/edit?usp=sharing
 
 ## Tecnologias Utilizadas
 * Google Colab/PySpark/Python/SQL/Pandas/Looker Studio.
