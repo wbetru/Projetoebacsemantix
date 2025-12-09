@@ -34,9 +34,9 @@ Neste projeto, pretendo fazer uma análise exploratória do dataset do COMPAS, v
 6. **Visualizações no Looker Studio**
 
 ## Visualizações
-* \[Link do Dashboard Looker Studio - [https://lookerstudio.google.com/reporting/15fbc8a0-dd0e-47de-9e44-f1011c148ecf]](https://lookerstudio.google.com/reporting/d540dc96-a58e-4065-b7f5-fa5ac7806284)
-* \[Link da analise no google colab - [https://docs.google.com/spreadsheets/d/1Gy_9EjZbGgJE11NwRV_3FrJtn-XCboP_poJQOgTRG9k/edit?gid=2058290409#gid=2058290409]](https://colab.research.google.com/drive/1mXL1udOgFebVX-9nTKerRXY5j-Y6QQMt?usp=sharing)
-
+* \[Link do Dashboard Looker Studio - https://lookerstudio.google.com/reporting/d540dc96-a58e-4065-b7f5-fa5ac7806284
+* \[Link da analise no google colab - https://colab.research.google.com/drive/1mXL1udOgFebVX-9nTKerRXY5j-Y6QQMt?usp=sharing
+  
 ## Principais Conclusões
 * Foram observadas diferenças significativas nas taxas de falsos positivos e negativos entre diferentes grupos raciais.
 * Esses resultados indicam a necessidade de monitoramento rigoroso e auditoria de algoritmos utilizados em decisões judiciais.
